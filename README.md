@@ -46,6 +46,10 @@
 ![image](https://github.com/MyNameIsVoo/SimplexLinearProgrammingMethod_WinForms_Cpp/assets/95473945/6fadf7bc-34a1-41f6-acf7-f67665f461bc)
 ![image](https://github.com/MyNameIsVoo/SimplexLinearProgrammingMethod_WinForms_Cpp/assets/95473945/375d7ad3-14c2-4c1b-ace9-2c9592abc536)
 
+## Задача, для примера выбрана №3.1
+
+![DSC_0112](https://github.com/MyNameIsVoo/SimplexLinearProgrammingMethod_WinForms_Cpp/assets/95473945/d20fab8c-9184-49bf-acd3-1957d61fbd3d)
+
 # Ссылки
 
 ## Если нужен код без воды - вам сюда
